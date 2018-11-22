@@ -1,0 +1,19 @@
+{
+    "Name": "DrBanzaiHelmCoreDawning",
+    "Enabled": true,
+	
+    "Version": "2.0.0",
+
+    "Author": "Dr. Banzai",
+
+    "DependsOn": [],
+    "ConflictsWith": [],
+	"Manifest": [
+        { "Type": "ChassisDef", "Path": "chassis" },
+        { "Type": "MechDef", "Path": "mech" },
+		{ "Type": "ShopDef", "Path": "shops" },
+		{ "Type": "MovementCapabilitiesDef", "Path": "movement" },
+	    { "Type": "VehicleDef", "Path": "vehicle" },
+	    { "Type": "WeaponDef", "Path": "weapon" }
+    ]	
+}
