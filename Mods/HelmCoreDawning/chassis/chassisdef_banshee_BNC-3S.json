@@ -13,7 +13,7 @@
     },
     "MovementCapDefID": "movedef_banshee_BNC-3S",
     "PathingCapDefID": "pathingdef_assault",
-    "HardpointDataDefID": "hardpointdatadef_banshee",
+    "HardpointDataDefID": "hardpointdatadef_banshee_S",
     "PrefabIdentifier": "chrPrfMech_bansheeBase-001",
     "PrefabBase": "banshee",
     "Tonnage": 95,
