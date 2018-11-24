@@ -14,6 +14,7 @@
 		{ "Type": "ShopDef", "Path": "shops" },
 		{ "Type": "MovementCapabilitiesDef", "Path": "movement" },
 	    { "Type": "VehicleDef", "Path": "vehicle" },
-	    { "Type": "WeaponDef", "Path": "weapon" }
+	    { "Type": "WeaponDef", "Path": "weapon" },
+		{ "Type": "HardpointDataDef", "Path": "hardpoints" }
     ]	
 }
