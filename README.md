@@ -8,5 +8,5 @@ I am perfectly happy with any kind of use and re-use of these assets as long as 
 
 Credits: 
 
-A shoutout to JustinKaseToo whose base designs I based some of my upgraded ones on.
+A shoutout to JustinKaseToo whose JK_Variants designs I based some of my upgraded ones on.
 Another big thanks to SolahmaJoe for permitting me to integrate his fantastic Hangar of the Dispossesed mod!
