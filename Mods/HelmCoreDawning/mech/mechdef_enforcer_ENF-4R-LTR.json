@@ -48,11 +48,11 @@
         {
             "DamageLevel": "Functional",
             "Location": "LeftTorso",
-            "CurrentArmor": 85,
-            "CurrentRearArmor": 15,
+            "CurrentArmor": 80,
+            "CurrentRearArmor": 10,
             "CurrentInternalStructure": 60,
-            "AssignedArmor": 85,
-            "AssignedRearArmor": 15
+            "AssignedArmor": 80,
+            "AssignedRearArmor": 10
         },
         {
             "DamageLevel": "Functional",
@@ -66,11 +66,11 @@
         {
             "DamageLevel": "Functional",
             "Location": "RightTorso",
-            "CurrentArmor": 85,
-            "CurrentRearArmor": 15,
+            "CurrentArmor": 80,
+            "CurrentRearArmor": 10,
             "CurrentInternalStructure": 60,
-            "AssignedArmor": 85,
-            "AssignedRearArmor": 15
+            "AssignedArmor": 80,
+            "AssignedRearArmor": 10
         },
         {
             "DamageLevel": "Functional",
@@ -84,19 +84,19 @@
         {
             "DamageLevel": "Functional",
             "Location": "LeftLeg",
-            "CurrentArmor": 100,
+            "CurrentArmor": 70,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 60,
-            "AssignedArmor": 100,
+            "AssignedArmor": 70,
             "AssignedRearArmor": -1
         },
         {
             "DamageLevel": "Functional",
             "Location": "RightLeg",
-            "CurrentArmor": 100,
+            "CurrentArmor": 70,
             "CurrentRearArmor": -1,
             "CurrentInternalStructure": 60,
-            "AssignedArmor": 100,
+            "AssignedArmor": 70,
             "AssignedRearArmor": -1
         }
     ],
@@ -122,32 +122,10 @@
             "DamageLevel": "Functional",
             "prefabName": null,
             "hasPrefabName": false
-        },
-        {
-            "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
-            "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
-		{
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
-            "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
+        },        
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Ammo_AmmunitionBox_Generic_AC10",
+            "ComponentDefID": "Ammo_AmmunitionBox_Generic_GAUSS",
             "SimGameUID": null,
             "ComponentDefType": "AmmunitionBox",
             "HardpointSlot": -1,
@@ -158,7 +136,7 @@
         },
         {
             "MountedLocation": "RightArm",
-            "ComponentDefID": "Weapon_Autocannon_AC10_0-STOCK",
+            "ComponentDefID": "Weapon_Gauss_Gauss_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
