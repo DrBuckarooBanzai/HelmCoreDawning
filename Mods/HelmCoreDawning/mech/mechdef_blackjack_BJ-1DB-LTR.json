@@ -14,14 +14,14 @@
     "HeraldryID": null,
     "Description": {
         "Cost": 4430000,
-        "Rarity": 4,
+        "Rarity": 6,
         "Purchasable": true,
         "Manufacturer": null,
         "Model": null,
         "UIName": "Blackjack BJ-1DB",
         "Id": "mechdef_blackjack_BJ-1DB-LTR",
         "Name": "Blackjack",
-        "Details": "A recent Federated Suns variant, the BJ-1DB replaces the AutoCannon with Large Lasers.  In order to assist with the added heat, it also drops some armor and the torso mounted lasers to make room for more Heat Sinks.",
+        "Details": "This Mech has been equipped with LosTech rediscovered from the Helm Memory Core.",
         "Icon": "uixTxrIcon_blackjack"
     },
     "simGameMechPartCost": 440000,
