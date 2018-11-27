@@ -1,5 +1,5 @@
 {
-    "Name": "DrBanzaiHelmCoreDawning",
+    "Name": "HelmCoreDawning",
     "Enabled": true,
 	
     "Version": "2.0.0",
@@ -11,10 +11,8 @@
 	"Manifest": [
         { "Type": "ChassisDef", "Path": "chassis" },
         { "Type": "MechDef", "Path": "mech" },
-		{ "Type": "ShopDef", "Path": "shops" },
-		{ "Type": "MovementCapabilitiesDef", "Path": "movement" },
-	    { "Type": "VehicleDef", "Path": "vehicle" },
-	    { "Type": "WeaponDef", "Path": "weapon" },
-		{ "Type": "HardpointDataDef", "Path": "hardpoints" }
+	{ "Type": "MovementCapabilitiesDef", "Path": "movement" },
+        { "Type": "VehicleDef", "Path": "vehicle" },
+	{ "Type": "HardpointDataDef", "Path": "hardpoints" }
     ]	
 }
