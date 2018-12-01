@@ -3,6 +3,7 @@
         "items": [
             "KSBeta",
             "unit_mech",
+     		"unit_LosTech",
             "unit_heavy",
 			"unit_lance_assassin",
             "unit_role_brawler",
