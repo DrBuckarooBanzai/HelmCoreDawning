@@ -1,0 +1,12 @@
+{
+    "Description" : {
+        "Rarity" : 4,
+        "Purchasable" : true,
+	},
+	"ComponentTags" : {
+		"items" : [
+			"component_type_stock",
+			"component_type_lostech"
+		],
+	}
+}
