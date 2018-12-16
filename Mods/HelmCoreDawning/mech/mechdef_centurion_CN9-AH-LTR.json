@@ -2,13 +2,12 @@
     "MechTags": {
         "items": [
             "unit_indirectFire",
-            "unit_release",
             "unit_mech",
      		"unit_LosTech",
             "unit_medium",
-            "unit_ready",
             "unit_lance_support",
-			"unit_role_sniper",
+			"unit_role_sniper",			
+			"Davion"
         ],
         "tagSetSourceFile": ""
     },

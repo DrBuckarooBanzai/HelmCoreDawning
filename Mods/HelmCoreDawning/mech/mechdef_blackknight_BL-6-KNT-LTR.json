@@ -1,13 +1,17 @@
 {
     "MechTags": {
-        "items": [
-            "KSBeta",
+        "items": [            
             "unit_mech",
      		"unit_LosTech",
             "unit_heavy",
 			"unit_lance_assassin",
-            "unit_role_brawler",
-            "unit_release"
+			"unit_lance_support",
+            "unit_role_brawler",            
+			"Steiner",
+			"Marik",
+			"Davion",
+            "Kurita",
+			"ComStar"
         ],
         "tagSetSourceFile": ""
     },
@@ -124,9 +128,31 @@
             "prefabName": null,
             "hasPrefabName": false
         },
+		{
+            "MountedLocation": "LeftArm",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+		{
+            "MountedLocation": "LeftArm",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
         {
             "MountedLocation": "LeftTorso",
-            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_0-STOCK",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -147,6 +173,17 @@
             "hasPrefabName": false
         },
         {
+            "MountedLocation": "LeftTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+		{
             "MountedLocation": "LeftTorso",
             "ComponentDefID": "Gear_HeatSink_Generic_Double",
             "SimGameUID": null,
@@ -170,7 +207,7 @@
         },
         {
             "MountedLocation": "RightTorso",
-            "ComponentDefID": "Weapon_Laser_LargeLaserPulse_0-STOCK",
+            "ComponentDefID": "Weapon_Laser_LargeLaserER_0-STOCK",
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 0,
@@ -185,6 +222,28 @@
             "SimGameUID": null,
             "ComponentDefType": "Weapon",
             "HardpointSlot": 1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+		{
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
+            "GUID": null,
+            "DamageLevel": "Functional",
+            "prefabName": null,
+            "hasPrefabName": false
+        },
+        {
+            "MountedLocation": "RightTorso",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double",
+            "SimGameUID": null,
+            "ComponentDefType": "HeatSink",
+            "HardpointSlot": -1,
             "GUID": null,
             "DamageLevel": "Functional",
             "prefabName": null,
@@ -234,17 +293,6 @@
             "prefabName": null,
             "hasPrefabName": false
         }, 
-        {
-            "MountedLocation": "RightTorso",
-            "ComponentDefID": "Gear_HeatSink_Generic_Double",
-            "SimGameUID": null,
-            "ComponentDefType": "HeatSink",
-            "HardpointSlot": -1,
-            "GUID": null,
-            "DamageLevel": "Functional",
-            "prefabName": null,
-            "hasPrefabName": false
-        },
         {
             "MountedLocation": "RightLeg",
             "ComponentDefID": "Gear_HeatSink_Generic_Double",

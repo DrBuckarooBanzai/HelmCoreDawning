@@ -6,8 +6,15 @@
             "unit_assault",
             "unit_indirectFire",
             "unit_lance_support",
+			"unit_lance_tank",
             "unit_role_sniper",
-            "unit_release"
+            "unit_release",
+			"Liao",
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar"
         ],
         "tagSetSourceFile": ""
     },

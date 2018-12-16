@@ -6,8 +6,20 @@
             "unit_assault",
 			"unit_indirectFire",
             "unit_lance_support",
-            "unit_role_sniper",
-            "unit_release"
+            "unit_role_sniper",           
+			"Marik",
+			"Davion",
+			"Steiner",
+			"Kurita",
+			"ComStar",
+			"AuriganDirectorate",
+			"Betrayers",
+			"AuriganMercenaries",
+			"AuriganPirates",
+			"AuriganRestoration",
+			"Locals",
+			"MercenaryReviewBoard",
+			"NoFaction"
         ],
         "tagSetSourceFile": ""
     },
