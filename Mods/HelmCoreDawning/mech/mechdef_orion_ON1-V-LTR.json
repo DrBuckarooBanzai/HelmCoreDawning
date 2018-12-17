@@ -3,7 +3,6 @@
         "items": [
             "unit_heavy",
             "unit_indirectFire",
-            "unit_release",
             "unit_mech",
      		"unit_LosTech",
             "unit_lance_assassin",

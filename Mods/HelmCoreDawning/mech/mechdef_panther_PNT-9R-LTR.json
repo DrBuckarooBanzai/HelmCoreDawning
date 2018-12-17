@@ -1,11 +1,9 @@
 {
     "MechTags": {
         "items": [
-            "unit_release",
             "unit_mech",
      		"unit_LosTech",
             "unit_light",
-            "unit_ready",
             "unit_lance_support",
             "unit_role_sniper",	    	
 			"Kurita"
