@@ -3,6 +3,7 @@
         "items": [
             "unit_jumpOK",
             "unit_mech",
+			"unit_release",
      		"unit_LosTech",
             "unit_heavy",
 			"unit_lance_assassin",

@@ -3,6 +3,7 @@
 		"items": [
 			"unit_LosTech",
 			"unit_mech",
+			"unit_release",
 			"unit_lance_support",
 			"unit_medium",
 			"unit_role_sniper",

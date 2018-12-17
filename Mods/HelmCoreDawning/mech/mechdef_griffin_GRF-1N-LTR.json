@@ -4,6 +4,7 @@
             "unit_indirectFire",
             "unit_jumpOK",
             "unit_mech",
+			"unit_release",
      		"unit_LosTech",
             "unit_medium",
             "unit_lance_support",

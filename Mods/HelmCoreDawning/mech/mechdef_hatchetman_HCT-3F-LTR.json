@@ -2,6 +2,7 @@
 	"MechTags": {
 		"items": [
 			"unit_mech",
+			"unit_release",
 			"unit_medium",
 			"unit_LosTech",
 			"unit_lance_assassin",
