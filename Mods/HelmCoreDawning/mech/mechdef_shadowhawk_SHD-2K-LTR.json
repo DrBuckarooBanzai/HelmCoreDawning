@@ -154,7 +154,7 @@
         },
         {
             "MountedLocation": "CenterTorso",
-            "ComponentDefID": "Gear_JumpJet_Generic_Double",
+            "ComponentDefID": "Gear_HeatSink_Generic_Double",
             "SimGameUID": null,
             "ComponentDefType": "JumpJet",
             "HardpointSlot": -1,
